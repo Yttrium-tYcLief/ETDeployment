@@ -1,0 +1,20 @@
+C:\Users\alex\AppData\Local\Temporary Projects\ETDeployment\bin\Debug\ETDeployment.exe
+C:\Users\alex\AppData\Local\Temporary Projects\ETDeployment\bin\Debug\ETDeployment.pdb
+C:\Users\alex\AppData\Local\Temporary Projects\ETDeployment\bin\Debug\ETDeployment.xml
+C:\Users\alex\AppData\Local\Temporary Projects\ETDeployment\obj\Debug\ETDeployment.vbprojResolveAssemblyReference.cache
+C:\Users\alex\AppData\Local\Temporary Projects\ETDeployment\obj\Debug\ETDeployment.Form1.resources
+C:\Users\alex\AppData\Local\Temporary Projects\ETDeployment\obj\Debug\ETDeployment.Resources.resources
+C:\Users\alex\AppData\Local\Temporary Projects\ETDeployment\obj\Debug\ETDeployment.vbproj.GenerateResource.Cache
+C:\Users\alex\AppData\Local\Temporary Projects\ETDeployment\obj\Debug\ETDeployment.exe
+C:\Users\alex\AppData\Local\Temporary Projects\ETDeployment\obj\Debug\ETDeployment.xml
+C:\Users\alex\AppData\Local\Temporary Projects\ETDeployment\obj\Debug\ETDeployment.pdb
+C:\Users\alex\Documents\Visual Studio 2015\Projects\ETDeployment\ETDeployment\obj\Debug\ETDeployment.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\ETDeployment\ETDeployment\obj\Debug\ETDeployment.xml
+C:\Users\alex\Documents\Visual Studio 2015\Projects\ETDeployment\ETDeployment\obj\Debug\ETDeployment.pdb
+C:\Users\alex\Documents\Visual Studio 2015\Projects\ETDeployment\ETDeployment\bin\Debug\ETDeployment.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\ETDeployment\ETDeployment\bin\Debug\ETDeployment.pdb
+C:\Users\alex\Documents\Visual Studio 2015\Projects\ETDeployment\ETDeployment\bin\Debug\ETDeployment.xml
+C:\Users\alex\Documents\Visual Studio 2015\Projects\ETDeployment\ETDeployment\obj\Debug\ETDeployment.vbprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2015\Projects\ETDeployment\ETDeployment\obj\Debug\ETDeployment.Form1.resources
+C:\Users\alex\Documents\Visual Studio 2015\Projects\ETDeployment\ETDeployment\obj\Debug\ETDeployment.Resources.resources
+C:\Users\alex\Documents\Visual Studio 2015\Projects\ETDeployment\ETDeployment\obj\Debug\ETDeployment.vbproj.GenerateResource.Cache
